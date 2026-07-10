@@ -1,10 +1,21 @@
 
-Hey, I'm Rakshit — CS undergrad from Delhi, backend developer in the making.
-I started where most do — NumPy, Pandas, Matplotlib, the usual data science onboarding. Built an SVD image compressor, did some stock market analysis. But I kept asking the same question: what's actually running behind all this? So I shifted.
-Moved into backend development, built a tennis player management system using Flask, SQLAlchemy, and SQLite — got my first real taste of system architecture, request flows, and what it means to design something that actually persists data. That was enough to get hooked.
-Now I'm working with FastAPI, PostgreSQL, Docker, and pushing towards cloud deployments on AWS and Azure — with proper auth and error handling, not just "it runs locally." The goal is a full job search platform with an embedded RAG system. Not a tutorial project. Something I'd actually use.
+Hey, I'm Rakshit — CS undergrad from Delhi, backend developer.
 
-[MY LinkedIn Profile](https://www.linkedin.com/in/rakshit-bhardwaj-b49b61325/)
+I started where most do — NumPy, Pandas, Matplotlib, the usual data science onboarding. Built an SVD image compressor, did some stock market analysis. But I kept asking the same question: what's actually running behind all this?
+
+So I shifted. Moved into backend development, built a tennis player management system using Flask, SQLAlchemy, and SQLite — got my first real taste of system architecture, request flows, and what it means to design something that actually persists data. That was enough to get hooked.
+
+From there I went further and shipped **Glory** — a full-stack job search and matching platform, not a tutorial project. Built with FastAPI and PostgreSQL, with an ML matching engine (sentence-transformers, cosine similarity) ranking job relevance instead of hand-written rules. Along the way I dealt with the stuff tutorials skip — connection pooling failures under load, deployment migrations after hitting memory limits, containerizing the whole thing with Docker to actually ship it somewhere real. It's live, not just running locally.
+
+**Currently:** going deep on the layer underneath all of this — query optimization, indexing, and understanding exactly what my ORM is doing under the hood, using Glory's own database as the training ground rather than isolated exercises.
+
+**Up next:** a grid load forecasting project — pulling real energy demand data and building a forecasting pipeline around it. Early days, more soon.
+
+---
+
+📫 Reach me: [rakshitbhardwaj298@gmail.com](mailto:rakshitbhardwaj298@gmail.com) 
+
+[MY LinkedIn Profile]
 
 
 # 💻 Tech Stack:
