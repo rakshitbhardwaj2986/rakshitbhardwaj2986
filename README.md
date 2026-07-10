@@ -15,7 +15,7 @@ From there I went further and shipped **Glory** — a full-stack job search and 
 
 📫 Reach me: [rakshitbhardwaj298@gmail.com](mailto:rakshitbhardwaj298@gmail.com) 
 
-[MY LinkedIn Profile]
+[MY LinkedIn Profile](https://www.linkedin.com/in/rakshit-bhardwaj-b49b61325/)
 
 
 # 💻 Tech Stack:
