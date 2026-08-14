@@ -8,6 +8,8 @@ From there I went further and shipped Glory — a full-stack job search and matc
 
 Somewhere in between, I also completed a GIS & Remote Sensing internship, working on satellite-based analysis (Landsat-8, Sentinel-2) — Urban Heat Island mapping and crop type classification with QGIS and Google Earth Engine.
 
+I also built and shipped Ultron (aka Jarvis) — an AI voice agent that activates on a wake word, listens for a command, calls an external API to process the request, and responds back both in text and out loud. Live and deployed, not a demo script.
+
 Currently: going deep on the layer underneath all of this — query optimization, indexing, and understanding exactly what my ORM is doing under the hood, using Glory's own database as the training ground rather than isolated exercises.
 
 Up next: SunScope — a solar energy forecasting project, pulling real solar/energy generation data and building a forecasting pipeline around it. Early days, more soon.
